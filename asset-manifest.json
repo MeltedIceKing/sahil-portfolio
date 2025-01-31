@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/sahil-portfolio/static/css/main.814e0cdf.css",
+    "main.js": "/sahil-portfolio/static/js/main.a71abff4.js",
+    "static/js/453.b3faef14.chunk.js": "/sahil-portfolio/static/js/453.b3faef14.chunk.js",
+    "static/media/skelecode.png": "/sahil-portfolio/static/media/skelecode.d8b67ea615c0b3e35e97.png",
+    "static/media/helvetica-neu.ttf": "/sahil-portfolio/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
+    "static/media/LaBelleAurore.woff2": "/sahil-portfolio/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
+    "static/media/CoolveticaRg-Regular.woff2": "/sahil-portfolio/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
+    "index.html": "/sahil-portfolio/index.html",
+    "main.814e0cdf.css.map": "/sahil-portfolio/static/css/main.814e0cdf.css.map",
+    "main.a71abff4.js.map": "/sahil-portfolio/static/js/main.a71abff4.js.map",
+    "453.b3faef14.chunk.js.map": "/sahil-portfolio/static/js/453.b3faef14.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.814e0cdf.css",
+    "static/js/main.a71abff4.js"
+  ]
+}
